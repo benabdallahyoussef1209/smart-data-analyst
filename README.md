@@ -1,7 +1,6 @@
 # 🧠 Smart Data Analyst
 
 > Application web intelligente d'analyse de données, propulsée par **LLaMA 3.3 70B** via Groq API.
-> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-data-analyst-ldkdbsmegfgxheqbvykyox.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red)
@@ -11,6 +10,8 @@
 ---
 
 ## 🎯 Fonctionnalités
+application en ligne : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-data-analyst-ldkdbsmegfgxheqbvykyox.streamlit.app)
+
 
 | Page | Fonctionnalité |
 |---|---|
