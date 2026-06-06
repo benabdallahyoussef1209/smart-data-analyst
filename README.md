@@ -8,10 +8,10 @@
 ![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-green)
 
 ---
+🌐 **Live Demo** : [Cliquez ici pour tester l'app](https://smart-data-analyst-ldkdbsmegfgxheqbvykyox.streamlit.app)
+
 
 ## 🎯 Fonctionnalités
-application en ligne : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-data-analyst-ldkdbsmegfgxheqbvykyox.streamlit.app)
-
 
 | Page | Fonctionnalité |
 |---|---|
